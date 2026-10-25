@@ -74,12 +74,6 @@ S t=60s rf=-101dBm noise=-101 signals=3 valid=4 sensors=1 lost=0
 Keys: `v` raw pulse dump, `r` RSSI stream, `+`/`-` trigger level,
 `f`/`o` FSK/OOK, `c` clear, `?` help.
 
-## Tests (run on a PC)
-`tests/run_tests.sh` — simulated sensor transmissions for every format with
-timing jitter, clock error and partial preambles (≥99% decoded, 0 wrong
-readings); 40 million pulses of random noise (0 false readings); and the full
-application running against simulated hardware, printing the LCD screens.
-
 ## Files
 | File | Role |
 |---|---|
