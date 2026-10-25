@@ -91,7 +91,7 @@ application running against simulated hardware, printing the LCD screens.
 | `USB_DEVICE/`, `Middlewares/` | USB virtual COM port (ST library) |
 | `prebuilt/Wireless_pressure_sensor.hex` | Ready-to-flash firmware |
 
-### The one short coming of this project is that i could not wake the TPMS sensor so i could not verify wheter it was working.
+### The only short-coming of this project is that i could not wake the TPMS sensor up therefore, so i can not verify whether it was working.
 
 
 ![alt text](pics/IMG_20261023_102222_105.jpg)
